@@ -12,7 +12,7 @@ function LinearProgressWithLabel(props) {
 
     <div display="flex" alignItems="center">
         <div marginBottom="">
-            Upload Complete 0/15
+            Upload Complete  0/15
         </div>
         <br/>
       <div width="80%" >

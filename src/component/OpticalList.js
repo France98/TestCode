@@ -30,7 +30,7 @@ export default function InteractiveList() {
       <Grid container spacing={1}>
         <Grid item xs={12} md={12}>
           <Typography variant="p" className={classes.title} >
-            บันทึกการตรวจรับงานติดตั้ง Optical Fiber
+            บันทึกการตรวจรับงานติดตั้ง Optical Fiber 
           </Typography>
           <div className={classes.demo}>
             <List style={{backgroundColor:'#D4D4D4'}}>
